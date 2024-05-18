@@ -1,0 +1,40 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background: black;
+    
+}
+
+.button{
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    width: 66px;
+    background-color: rgb(221, 176, 13);
+}
+
+.row{
+    margin: 6px 0px;
+}
+.row input{
+    width: 291px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+h1{
+    color: wheat;
+}
+
+#C{
+background-color: wheat;
+}
+
+#inp{
+    background-color: wheat;
+}
